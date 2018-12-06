@@ -81,7 +81,7 @@ function draw() {
 						       colour: color(255, 0, 0)}
 
 			blocks.push(block);
-			blockCount = random(200, 300);
+			blockCount = random(400, 600);
 		}
 		else{
 			blockCount--;
